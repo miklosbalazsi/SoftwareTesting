@@ -7,3 +7,21 @@ https://www.softwaretestinghelp.com/software-test-metrics-and-measurements/
 GitLab
 ---
 https://docs.gitlab.com/  
+
+Jenkins
+---
+
+TeamCity
+---
+
+Jira
+---
+
+TestLink
+---
+
+RQM - Rational Quality Manager
+---
+
+RTC - Rational Team Concert
+---
