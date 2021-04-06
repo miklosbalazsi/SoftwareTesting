@@ -7,52 +7,52 @@ https://marketplace.atlassian.com/apps/1014681/zephyr-for-jira-test-management?h
 
 Test Types: 
 ---
-Different Types Of Software Testing
-Alpha Testing
-Acceptance Testing
-Ad-hoc Testing
-Accessibility Testing
-Beta Testing
-Back-end Testing
-Browser Compatibility Testing
-Backward Compatibility Testing
-Black Box Testing
-Boundary Value Testing
-Branch Testing
-Comparison Testing
-Compatibility Testing
-Component Testing
-End-to-End Testing
-Equivalence Partitioning
-Example Testing
-Exploratory Testing
-Functional Testing
-Graphical User Interface (GUI) Testing
-Gorilla Testing
-Happy Path Testing
-Incremental Integration Testing
-Install/Uninstall Testing
-Integration Testing
-Load Testing
-Monkey Testing
-Mutation Testing
-Negative Testing
-Non-Functional Testing
-Performance Testing
-Recovery Testing
-Regression Testing
-Risk-Based Testing (RBT)
-Sanity Testing
-Security Testing
-Smoke Testing
-Static Testing
-Stress Testing
-System Testing
-Unit Testing
-Usability Testing
-Vulnerability Testing
-Volume Testing
-White Box Testing
+Different Types Of Software Testing  
+Alpha Testing  
+Acceptance Testing  
+Ad-hoc Testing  
+Accessibility Testing  
+Beta Testing  
+Back-end Testing  
+Browser Compatibility Testing  
+Backward Compatibility Testing  
+Black Box Testing  
+Boundary Value Testing  
+Branch Testing  
+Comparison Testing  
+Compatibility Testing  
+Component Testing  
+End-to-End Testing  
+Equivalence Partitioning  
+Example Testing  
+Exploratory Testing  
+Functional Testing  
+Graphical User Interface (GUI) Testing  
+Gorilla Testing  
+Happy Path Testing  
+Incremental Integration Testing  
+Install/Uninstall Testing  
+Integration Testing  
+Load Testing  
+Monkey Testing  
+Mutation Testing  
+Negative Testing  
+Non-Functional Testing  
+Performance Testing  
+Recovery Testing  
+Regression Testing  
+Risk-Based Testing (RBT)  
+Sanity Testing  
+Security Testing  
+Smoke Testing  
+Static Testing  
+Stress Testing  
+System Testing  
+Unit Testing  
+Usability Testing  
+Vulnerability Testing  
+Volume Testing  
+White Box Testing  
 
 
 Software Testing Framework Types : 
