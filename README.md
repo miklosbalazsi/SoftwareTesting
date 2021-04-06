@@ -72,39 +72,40 @@ Software Testing Framework Types :
 
 |Languge| Name | Type | ParalellRun| Polling| RerunFailed| TestTagging| Reporting|Price|
 |-------|------|------|------------|--------|------------|------------|----------|-----|
-Java | Junit |
-Java | TestNG |
-Java | JMeter |
-Java | JBehave |
-Java | Serenity |
-Java | Selenide |
-Java | Gauge |
-Java | Geb |
-Java | HttpUnit |
-Java | JWebUnit |
-Java | RestAssured |
-Java | Cucumber |
-Java | Karate |
-JS   | cypress |
-JS   | taiko |
-JS   | OpenTest |
-JS   | Jest |
-JS   | Mocha | 
-JS   | Jasmine | 
-JS   | Nightwatch | 
-JS   | Protractor | 
-JS   | 
-Python | Robot |
-Python | PyTest |
-Python | Unittest | 
-Python | DocTest |
-Python | Nose2 |
-Python | Testify | 
-        | Selenium | 
+Java | [Junit](https://junit.org) |
+Java | [TestNG](https://testng.org/doc/) |
+Java | [JMeter](https://jmeter.apache.org/) |
+Java | [JBehave](https://jbehave.org/) |
+Java | [Serenity](http://www.thucydides.info/#/) |
+Java | [Selenide](https://selenide.org/) |
+Java | [Gauge](https://gauge.org/) |
+Java | [Geb](https://gebish.org/) |
+Java | [HttpUnit](http://httpunit.sourceforge.net/index.html) |
+Java | [JWebUnit](https://jwebunit.github.io/jwebunit/) |
+Java | [RestAssured](https://rest-assured.io/) |
+Java | [Cucumber](https://cucumber.io/) |
+Java | [Karate](https://intuit.github.io/karate/) |
+JS   | [cypress](https://www.cypress.io/) |
+JS   | [taiko](https://taiko.dev/) |
+JS   | [OpenTest](https://getopentest.org/) |
+JS   | [Jest](https://jestjs.io/) |
+JS   | [Mocha](https://mochajs.org/) | 
+JS   | [Jasmine](https://jasmine.github.io/) | 
+JS   | [Nightwatch](https://nightwatchjs.org/) | 
+JS   | [Protractor](https://www.protractortest.org/#/) | 
+Python | [Robot](https://robotframework.org/) |
+Python | [PyTest](https://docs.pytest.org/en/stable/) |
+Python | [Unittest](https://docs.python.org/3/library/unittest.html) | 
+Python | [DocTest](https://docs.python.org/3/library/doctest.html) |
+Python | [Nose2](https://docs.nose2.io/en/latest/) |
+Python | [Testify](https://github.com/Yelp/Testify) | 
+All    | [Selenium](https://www.selenium.dev/) | 
+
+
 
 ---
 
-References: 
+References:  
 https://www.wikiwand.com/en/List_of_unit_testing_frameworks  
 https://www.lambdatest.com/blog/top-10-java-testing-frameworks/  
 https://www.softwaretestinghelp.com/types-of-software-testing/
