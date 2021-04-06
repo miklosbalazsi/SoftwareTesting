@@ -92,7 +92,8 @@ JS   | [Jest](https://jestjs.io/) |
 JS   | [Mocha](https://mochajs.org/) | 
 JS   | [Jasmine](https://jasmine.github.io/) | 
 JS   | [Nightwatch](https://nightwatchjs.org/) | 
-JS   | [Protractor](https://www.protractortest.org/#/) | 
+JS   | [Protractor](https://www.protractortest.org/#/) |
+JS   | [Postman](https://www.postman.com/) |
 Python | [Robot](https://robotframework.org/) |
 Python | [PyTest](https://docs.pytest.org/en/stable/) |
 Python | [Unittest](https://docs.python.org/3/library/unittest.html) | 
@@ -100,6 +101,7 @@ Python | [DocTest](https://docs.python.org/3/library/doctest.html) |
 Python | [Nose2](https://docs.nose2.io/en/latest/) |
 Python | [Testify](https://github.com/Yelp/Testify) | 
 All    | [Selenium](https://www.selenium.dev/) | 
+GUI    | [SOAPUI](https://www.soapui.org/) | 
 
 
 
@@ -111,3 +113,5 @@ https://www.lambdatest.com/blog/top-10-java-testing-frameworks/
 https://www.softwaretestinghelp.com/types-of-software-testing/
 https://www.softwaretestinghelp.com/python-testing-frameworks/
 https://www.lambdatest.com/blog/top-javascript-automation-testing-framework/
+
+https://stackshare.io/testing-frameworks
