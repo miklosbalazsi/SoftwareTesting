@@ -1,11 +1,62 @@
 Software testing Framework  
 ---
-> https://smartbear.com/learn/automated-testing/test-automation-frameworks/
+> https://smartbear.com/learn/automated-testing/test-automation-frameworks/  
 A testing framework is a set of guidelines or rules used for creating and designing test cases. A framework is comprised of a combination of practices and tools that are designed to help QA professionals test more efficiently.These guidelines could include coding standards, test-data handling methods, object repositories, processes for storing test results, or information on how to access external resources.  
 
 https://marketplace.atlassian.com/apps/1014681/zephyr-for-jira-test-management?hosting=server&tab=overview
 
+Test Types: 
+---
+Different Types Of Software Testing
+Alpha Testing
+Acceptance Testing
+Ad-hoc Testing
+Accessibility Testing
+Beta Testing
+Back-end Testing
+Browser Compatibility Testing
+Backward Compatibility Testing
+Black Box Testing
+Boundary Value Testing
+Branch Testing
+Comparison Testing
+Compatibility Testing
+Component Testing
+End-to-End Testing
+Equivalence Partitioning
+Example Testing
+Exploratory Testing
+Functional Testing
+Graphical User Interface (GUI) Testing
+Gorilla Testing
+Happy Path Testing
+Incremental Integration Testing
+Install/Uninstall Testing
+Integration Testing
+Load Testing
+Monkey Testing
+Mutation Testing
+Negative Testing
+Non-Functional Testing
+Performance Testing
+Recovery Testing
+Regression Testing
+Risk-Based Testing (RBT)
+Sanity Testing
+Security Testing
+Smoke Testing
+Static Testing
+Stress Testing
+System Testing
+Unit Testing
+Usability Testing
+Vulnerability Testing
+Volume Testing
+White Box Testing
+
+
 Software Testing Framework Types : 
+---
 1. Linear Automation Framework
 > Also referred to as a record-and-playback framework, testers don’t need to write code to create functions and the steps are written in a sequential order.
 3. Modular Based Testing Framework
@@ -19,4 +70,20 @@ Software Testing Framework Types :
 9. Hybrid Testing Framework
 > Combination of any of the previously mentioned frameworks set up to leverage the advantages of some and mitigate the weaknesses of others.
 
-Name, Languge, Type, ParalellRun, Polling, RerunFailed, TestTagging, Reporting
+|Languge| Type| ParalellRun| Polling| RerunFailed| TestTagging| Reporting|
+|-------|-----|------------|--------|------------|------------|----------|
+Java | Junit |
+Java | TestNG
+Java | JBehave |
+Java | Serenity |
+Java | Selenide |
+Java | Gauge |
+Java | Geb |
+Java | HttpUnit |
+Java | JWebUnit
+
+
+References: 
+https://www.wikiwand.com/en/List_of_unit_testing_frameworks  
+https://www.lambdatest.com/blog/top-10-java-testing-frameworks/  
+https://www.softwaretestinghelp.com/types-of-software-testing/
