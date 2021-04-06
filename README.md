@@ -70,20 +70,43 @@ Software Testing Framework Types :
 9. Hybrid Testing Framework
 > Combination of any of the previously mentioned frameworks set up to leverage the advantages of some and mitigate the weaknesses of others.
 
-|Languge| Type| ParalellRun| Polling| RerunFailed| TestTagging| Reporting|
-|-------|-----|------------|--------|------------|------------|----------|
+|Languge| Name | Type | ParalellRun| Polling| RerunFailed| TestTagging| Reporting|Price|
+|-------|------|------|------------|--------|------------|------------|----------|-----|
 Java | Junit |
-Java | TestNG
+Java | TestNG |
+Java | JMeter |
 Java | JBehave |
 Java | Serenity |
 Java | Selenide |
 Java | Gauge |
 Java | Geb |
 Java | HttpUnit |
-Java | JWebUnit
+Java | JWebUnit |
+Java | RestAssured |
+Java | Cucumber |
+Java | Karate |
+JS   | cypress |
+JS   | taiko |
+JS   | OpenTest |
+JS   | Jest |
+JS   | Mocha | 
+JS   | Jasmine | 
+JS   | Nightwatch | 
+JS   | Protractor | 
+JS   | 
+Python | Robot |
+Python | PyTest |
+Python | Unittest | 
+Python | DocTest |
+Python | Nose2 |
+Python | Testify | 
+        | Selenium | 
 
+---
 
 References: 
 https://www.wikiwand.com/en/List_of_unit_testing_frameworks  
 https://www.lambdatest.com/blog/top-10-java-testing-frameworks/  
 https://www.softwaretestinghelp.com/types-of-software-testing/
+https://www.softwaretestinghelp.com/python-testing-frameworks/
+https://www.lambdatest.com/blog/top-javascript-automation-testing-framework/
