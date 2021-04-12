@@ -115,4 +115,8 @@ https://www.softwaretestinghelp.com/types-of-software-testing/
 https://www.softwaretestinghelp.com/python-testing-frameworks/
 https://www.lambdatest.com/blog/top-javascript-automation-testing-framework/
 
+https://martinfowler.com/articles/practical-test-pyramid.html
+https://martinfowler.com/bliki/IntegrationTest.html
+
 https://stackshare.io/testing-frameworks
+
