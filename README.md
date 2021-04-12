@@ -89,6 +89,7 @@ JS   | [cypress](https://www.cypress.io/) |
 JS   | [taiko](https://taiko.dev/) |
 JS   | [OpenTest](https://getopentest.org/) |
 JS   | [Jest](https://jestjs.io/) |
+JS   | [<span style="color:grey">testing-library</span>](https://testing-library.com/) |
 JS   | [Mocha](https://mochajs.org/) | 
 JS   | [Jasmine](https://jasmine.github.io/) | 
 JS   | [Nightwatch](https://nightwatchjs.org/) | 
