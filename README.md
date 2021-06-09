@@ -122,3 +122,5 @@ https://martinfowler.com/bliki/IntegrationTest.html
 
 https://stackshare.io/testing-frameworks
 
+https://testautomationpatterns.org/wiki/index.php/Main_Page
+
